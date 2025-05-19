@@ -4,8 +4,8 @@ title: "TheSubjectArrives"
 authors:
   - family-names: "Subject"
     given-names: "X"
-date-released: "2025-03-12"
-version: "v1.0.0"
+date-released: "2025-05-19"
+version: "v0.4.0"
 url: "https://github.com/thesubject093/TheSubjectArrives"
 license: "CC-BY-4.0"
-doi: 10.5281/zenodo.15461867
+doi: 10.5281/zenodo.15462046
